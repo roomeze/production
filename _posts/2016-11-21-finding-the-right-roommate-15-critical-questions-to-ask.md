@@ -3,7 +3,7 @@ ID: 5303
 post_title: >
   Finding the Right Roommate – 15
   Critical Questions to Ask
-author: Sam Boyer
+author: The Roomeze Team
 post_date: 2016-11-21 17:35:23
 post_excerpt: ""
 layout: post
